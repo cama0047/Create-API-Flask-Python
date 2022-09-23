@@ -50,5 +50,4 @@ deactivate
 python3 -m pip install requests
 pip install Flask
 pip install flask-restful
-
 ```
