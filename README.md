@@ -36,4 +36,19 @@ source project_name/bin/activate
 //or
 . project_name/bin/activate
 ```
+### Leaving a virtual environment
+
+####Unix/macOS
+```
+deactivate
+```
+
+### Installing packages
+
+####Unix/macOS
+```
+python3 -m pip install requests
+pip install Flask
+pip install flask-restful
+
 ```
